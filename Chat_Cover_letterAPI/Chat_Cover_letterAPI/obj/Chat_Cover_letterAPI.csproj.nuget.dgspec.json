@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fuhaoruan/Documents/Spring 2023/web application/Chat_Cover_letterAPI/Chat_Cover_letterAPI/Chat_Cover_letterAPI.csproj": {}
+    "/Users/fuhaoruan/Projects/dotnetProject/Chat_Cover_letterAPI/Chat_Cover_letterAPI/Chat_Cover_letterAPI.csproj": {}
   },
   "projects": {
-    "/Users/fuhaoruan/Documents/Spring 2023/web application/Chat_Cover_letterAPI/Chat_Cover_letterAPI/Chat_Cover_letterAPI.csproj": {
+    "/Users/fuhaoruan/Projects/dotnetProject/Chat_Cover_letterAPI/Chat_Cover_letterAPI/Chat_Cover_letterAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fuhaoruan/Documents/Spring 2023/web application/Chat_Cover_letterAPI/Chat_Cover_letterAPI/Chat_Cover_letterAPI.csproj",
+        "projectUniqueName": "/Users/fuhaoruan/Projects/dotnetProject/Chat_Cover_letterAPI/Chat_Cover_letterAPI/Chat_Cover_letterAPI.csproj",
         "projectName": "Chat_Cover_letterAPI",
-        "projectPath": "/Users/fuhaoruan/Documents/Spring 2023/web application/Chat_Cover_letterAPI/Chat_Cover_letterAPI/Chat_Cover_letterAPI.csproj",
+        "projectPath": "/Users/fuhaoruan/Projects/dotnetProject/Chat_Cover_letterAPI/Chat_Cover_letterAPI/Chat_Cover_letterAPI.csproj",
         "packagesPath": "/Users/fuhaoruan/.nuget/packages/",
-        "outputPath": "/Users/fuhaoruan/Documents/Spring 2023/web application/Chat_Cover_letterAPI/Chat_Cover_letterAPI/obj/",
+        "outputPath": "/Users/fuhaoruan/Projects/dotnetProject/Chat_Cover_letterAPI/Chat_Cover_letterAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fuhaoruan/.nuget/NuGet/NuGet.Config"
@@ -44,7 +44,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
